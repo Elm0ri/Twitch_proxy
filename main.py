@@ -10,7 +10,7 @@ from threading import Lock
 
 
 proxy_list = [
-    ("104.250.204.146", 6237, "nekosbot", "5tapegalob53"),
+    ("104.250.204.146", 6237, "namehost", "passwordhost"),
     
 ]
 
